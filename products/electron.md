@@ -19,12 +19,12 @@ releases:
   # but this varies a lot currently due to the cadence change.
 -   releaseCycle: "18"
     eol: false
-    release: 2022-03-29
+    release: 2022-03-28
     latest: "18.2.3"
     latestReleaseDate: 2022-05-11
 -   releaseCycle: "17"
     eol: false
-    release: 2022-02-01
+    release: 2022-01-31
     latest: "17.4.4"
     latestReleaseDate: 2022-05-11
 -   releaseCycle: "16"
@@ -49,7 +49,7 @@ releases:
     latestReleaseDate: 2022-02-01
 -   releaseCycle: "12"
     eol: true
-    release: 2021-03-02
+    release: 2021-03-01
     latest: "12.2.3"
     latestReleaseDate: 2021-11-15
 -   releaseCycle: "11"
@@ -86,7 +86,7 @@ releases:
     eol: true
     release: 2019-04-23
     latest: "5.0.13"
-    latestReleaseDate: 2019-12-17
+    latestReleaseDate: 2019-12-16
 
 ---
 

@@ -15,43 +15,43 @@ eolColumn: Support Status
 sortReleasesBy: 'releaseCycle'
 releases:
 -   releaseCycle: "10.7"
-    release: 2021-11-05
+    release: 2021-11-08
     eol: 2023-02-14
     latest: "10.7.3"
     latestShortHand: "1073"
-    latestReleaseDate: 2022-02-10
+    latestReleaseDate: 2022-02-12
 -   releaseCycle: "10.6"
     release: 2021-04-23
     eol: 2026-07-06
     latest: "10.6.7"
     latestShortHand: "1067"
-    latestReleaseDate: 2022-02-10
+    latestReleaseDate: 2022-02-12
 -   releaseCycle: "10.5"
     release: 2019-11-25
     eol: 2025-06-24
     latest: "10.5.15"
     latestShortHand: "10515"
-    latestReleaseDate: 2022-02-10
+    latestReleaseDate: 2022-02-12
 -   releaseCycle: "10.4"
     release: 2018-11-08
     eol: 2024-06-18
     latest: "10.4.24"
     latestShortHand: "10424"
-    latestReleaseDate: 2022-02-10
+    latestReleaseDate: 2022-02-12
 -   releaseCycle: "10.3"
     release: 2017-04-13
     eol: 2023-05-25
     latest: "10.3.34"
     latestShortHand: "10334"
-    latestReleaseDate: 2022-02-10
+    latestReleaseDate: 2022-02-12
 -   releaseCycle: "10.2"
     release: 2016-04-16
     eol: 2022-05-23
     latest: "10.2.43"
     latestShortHand: "10243"
-    latestReleaseDate: 2022-02-10
+    latestReleaseDate: 2022-02-12
 -   releaseCycle: "10.1"
-    release: 2014-06-26
+    release: 2014-07-01
     eol: 2020-10-17
     latest: "10.1.48"
     latestShortHand: "10148"

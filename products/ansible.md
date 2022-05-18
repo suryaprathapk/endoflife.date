@@ -14,7 +14,7 @@ auto:
   git: https://github.com/ansible-community/ansible-build-data.git
 releases:
 -   releaseCycle: "5"
-    release: 2021-11-30
+    release: 2021-12-02
     eol: false
     latest: "5.7.1"
     latestReleaseDate: 2022-05-04
@@ -22,7 +22,7 @@ releases:
     release: 2021-05-18
     eol: true
     latest: "4.10.0"
-    latestReleaseDate: 2021-12-14
+    latestReleaseDate: 2021-12-21
 -   releaseCycle: "3"
     release: 2021-02-18
     eol: true
